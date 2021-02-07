@@ -16,6 +16,7 @@ Hi everyone.Here i am joining a challenge called Challenges.I'm so excited to sh
 Christmas Gifts Screen for applications.I just made an Illustration in Figma,keep upvote.
 Merry Christmas to all.
 **Original design** : https://www.uplabs.com/posts/holiday-illustration-landing-screen-by-gautam-p
+![IOT](https://github.com/GAUTAMMISTRY/Uplabs-UI-UX-Challenge/blob/main/Icons-Illustration/Xmas-Cover.png)
 ![IOT](https://github.com/GAUTAMMISTRY/Uplabs-UI-UX-Challenge/blob/main/Icons-Illustration/iot.png)
 
 ## VPN Logo 
