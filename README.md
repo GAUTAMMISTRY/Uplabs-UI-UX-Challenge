@@ -29,6 +29,15 @@ Webcam Icons with Figma
 **Original design** : https://www.uplabs.com/posts/webcam-icon-gautam
 ![shots](https://github.com/GAUTAMMISTRY/Uplabs-UI-UX-Challenge/blob/main/Icons-Illustration/webcam.png)
 
+
+
+## Amaze logo
+Amaze logo with Figma
+**Original design** : https://www.uplabs.com/posts/branding-logo-a05dec72-ce93-472f-8a92-b3a9aee33d68
+
+![shots](https://github.com/GAUTAMMISTRY/Uplabs-UI-UX-Challenge/blob/main/Icons-Illustration/Amaze.png)
+
+
 ## Built With
 - [Figma Tool](https://www.figma.com) 
 
