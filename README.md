@@ -30,12 +30,20 @@ Webcam Icons with Figma
 ![shots](https://github.com/GAUTAMMISTRY/Uplabs-UI-UX-Challenge/blob/main/Icons-Illustration/webcam.png)
 
 
-
 ## Amaze logo
 Amaze logo with Figma
 **Original design** : https://www.uplabs.com/posts/branding-logo-a05dec72-ce93-472f-8a92-b3a9aee33d68
 
 ![shots](https://github.com/GAUTAMMISTRY/Uplabs-UI-UX-Challenge/blob/main/Icons-Illustration/Amaze.png)
+
+## Navigation App Challenge
+A quick navigation app with purple highlights.
+Let me know what you think !
+Map Application Design Concept.
+
+**Original design** : https://www.uplabs.com/posts/navigation-app-challenge-gautam
+![shots](https://github.com/GAUTAMMISTRY/Uplabs-UI-UX-Challenge/blob/main/Navigation%20Challenge/cover.png)
+
 
 
 ## Built With
